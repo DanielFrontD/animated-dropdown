@@ -1,0 +1,13 @@
+@media screen and (max-width: 1319px ){
+	.box-f .box-s .head{
+		height: auto;
+	}
+	.head-title p{
+		text-align: center;
+		line-height: 1.5;
+		height: auto;
+	}
+	#accordion{
+		padding: 9px 10px 9px 23px;
+	}
+}
